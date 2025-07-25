@@ -1458,3 +1458,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Jul2025 23:11:28.262] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
 [25Jul2025 23:11:28.265] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
 [25Jul2025 23:11:28.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[25Jul2025 23:28:13.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[25Jul2025 23:28:13.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[25Jul2025 23:28:13.092] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[25Jul2025 23:28:13.143] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Jul2025 23:28:30.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:53993] logged in with entity id 63700 at (-21695.136036983695, 68.0, -2060.9151641832727)
+[25Jul2025 23:28:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[25Jul2025 23:28:30.864] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[25Jul2025 23:28:30.865] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[25Jul2025 23:28:31.508] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[25Jul2025 23:28:31.509] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[25Jul2025 23:29:24.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[25Jul2025 23:29:24.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[25Jul2025 23:29:24.286] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[25Jul2025 23:30:47.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:47265] logged in with entity id 64243 at (-21695.136036983695, 68.0, -2060.9151641832727)
+[25Jul2025 23:30:47.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[25Jul2025 23:30:47.810] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[25Jul2025 23:30:47.812] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[25Jul2025 23:30:49.805] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[25Jul2025 23:30:49.806] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[25Jul2025 23:32:18.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[25Jul2025 23:32:18.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[25Jul2025 23:32:18.396] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[25Jul2025 23:32:30.696] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:40975] logged in with entity id 64933 at (-21716.856877908238, 66.0, -2075.699999988079)
+[25Jul2025 23:32:30.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[25Jul2025 23:32:30.721] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[25Jul2025 23:32:30.724] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[25Jul2025 23:32:31.328] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[25Jul2025 23:32:31.328] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[25Jul2025 23:34:20.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has completed the challenge [Rude Awakening]
+[25Jul2025 23:35:19.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Fighting Nightmares]
+[25Jul2025 23:35:52.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[25Jul2025 23:37:05.867] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/79192, l='ServerLevel[world]', x=-21643.50, y=55.00, z=-2058.50]
+[25Jul2025 23:44:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has completed the challenge [It's Purple!]
