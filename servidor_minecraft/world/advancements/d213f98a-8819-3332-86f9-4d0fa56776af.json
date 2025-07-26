@@ -7689,6 +7689,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-07-26 18:01:19 +0000"
+    },
+    "done": true
+  },
   "stellarity:adventure/kill_large_phantom": {
     "criteria": {
       "size_doesnt_matter": "2025-07-26 17:46:34 +0000"
