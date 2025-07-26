@@ -8023,5 +8023,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-07-26 19:23:39 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-07-26 19:30:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

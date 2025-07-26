@@ -2621,3 +2621,18 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [26Jul2025 19:22:39.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [26Jul2025 19:22:56.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3120ms or 62 ticks behind
 [26Jul2025 19:23:13.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[26Jul2025 19:28:29.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Jul2025 19:29:13.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Timed out
+[26Jul2025 19:29:13.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 19:29:13.691] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 19:29:26.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:50537] logged in with entity id 257638 at (-6366.873685854598, 104.0, -1196.053215709688)
+[26Jul2025 19:29:26.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 19:29:26.455] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 19:29:26.455] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 19:29:27.247] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 19:29:27.247] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 19:30:12.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Exorcism]
+[26Jul2025 19:31:35.454] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Laser_Beam_Entity['Laser Beam'/259418, l='ServerLevel[world]', x=-6214.55, y=449.35, z=-587.76]
+[26Jul2025 19:31:35.568] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySpadefish['Spadefish'/259440, l='ServerLevel[world]', x=-6400.79, y=11.38, z=-592.00]
+[26Jul2025 19:36:15.663] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 19:38:27.859] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
