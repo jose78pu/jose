@@ -1716,3 +1716,859 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2025 18:36:32.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
 [26Jul2025 18:36:32.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
 [26Jul2025 18:36:32.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:36:41.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:42415] logged in with entity id 126369 at (-22882.548776714455, 86.44868446961871, -4016.259547173288)
+[26Jul2025 18:36:41.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:36:41.164] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:36:41.165] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:36:41.929] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:36:41.929] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:36:52.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:36:52.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:36:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:36:52.286] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:37:01.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:53685] logged in with entity id 126785 at (-22882.548776714455, 85.87863776928853, -4016.259547173288)
+[26Jul2025 18:37:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:37:01.453] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:37:01.454] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:37:02.147] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:37:02.147] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:37:13.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:37:13.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:37:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:37:13.343] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:37:26.237] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:60517] logged in with entity id 127203 at (-22882.548776714455, 85.84829721156557, -4016.259547173288)
+[26Jul2025 18:37:26.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:37:26.254] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:37:26.256] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:37:26.924] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:37:26.925] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:37:38.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:37:38.241] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:37:38.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:37:38.241] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:37:46.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:46781] logged in with entity id 127618 at (-22882.548776714455, 85.87863776925245, -4016.259547173288)
+[26Jul2025 18:37:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:37:46.553] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:37:46.554] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:37:47.258] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:37:47.259] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:37:58.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:37:59.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:37:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:37:59.049] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:38:07.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:46663] logged in with entity id 128043 at (-22882.548776714455, 85.90291021540196, -4016.259547173288)
+[26Jul2025 18:38:07.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:38:07.253] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:38:07.256] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:38:07.941] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:38:07.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:38:19.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:38:19.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:38:19.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:38:19.493] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:38:28.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:46637] logged in with entity id 128461 at (-22882.902219415406, 85.84829721186242, -4016.269013060774)
+[26Jul2025 18:38:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:38:28.305] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:38:28.306] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:38:29.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:38:29.016] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:38:40.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:38:40.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:38:40.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:38:40.952] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:39:31.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:34875] logged in with entity id 128886 at (-22882.902219415406, 85.90291021540196, -4016.269013060774)
+[26Jul2025 18:39:31.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:39:31.395] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:39:31.397] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:39:32.253] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:39:32.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:39:46.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:39:46.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:39:46.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:39:46.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:39:54.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:56871] logged in with entity id 129304 at (-22882.88988820867, 85.8786377693079, -4016.2133272021524)
+[26Jul2025 18:39:54.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:39:54.757] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:39:54.758] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:39:55.444] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:39:55.444] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:40:06.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:40:06.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:40:06.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:40:06.297] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:40:16.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:48857] logged in with entity id 129756 at (-22881.581300329133, 87.06486898779762, -4014.742270994138)
+[26Jul2025 18:40:16.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:40:16.610] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:40:16.611] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:40:17.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:40:17.374] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:40:39.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:40:39.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:40:39.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:40:39.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:40:47.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:39599] logged in with entity id 130201 at (-22880.319741472376, 87.12866541322964, -4014.8599331915325)
+[26Jul2025 18:40:47.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:40:47.357] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:40:47.358] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:40:48.102] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:40:48.102] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:41:02.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:41:02.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:41:02.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:41:02.382] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:42:26.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:51983] logged in with entity id 142667 at (-22880.319741472376, 86.87863705712945, -4014.8599331915325)
+[26Jul2025 18:42:26.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:42:26.490] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:42:26.491] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:42:28.154] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:42:28.155] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:42:42.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:42:42.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:42:42.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:42:42.287] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:42:49.238] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:35535] logged in with entity id 143091 at (-22883.08163871489, 86.23013593425361, -4016.5150908056203)
+[26Jul2025 18:42:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:42:49.255] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:42:49.256] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:42:50.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:42:50.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:43:09.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:43:09.742] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:43:09.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:43:09.743] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:43:15.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:42293] logged in with entity id 143515 at (-22883.708956405648, 89.10461359706878, -4015.8344178411558)
+[26Jul2025 18:43:15.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:43:15.963] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:43:15.964] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:43:16.694] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:43:16.694] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:43:28.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:43:28.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:43:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:43:28.296] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:43:35.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:46921] logged in with entity id 143937 at (-22880.99865145684, 85.99551159824664, -4019.1002419856086)
+[26Jul2025 18:43:35.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:43:35.402] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:43:35.403] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:43:36.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:43:36.148] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:43:45.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:43:45.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:43:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:43:45.889] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:43:52.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:35925] logged in with entity id 144328 at (-22880.21882295849, 85.84831971490402, -4016.095569048785)
+[26Jul2025 18:43:52.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:43:52.603] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:43:52.604] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:43:53.411] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:43:53.411] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:44:05.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:44:05.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:44:05.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:44:05.144] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:44:21.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:59811] logged in with entity id 144747 at (-22881.21663710349, 85.994655650318, -4019.033928710236)
+[26Jul2025 18:44:21.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:44:21.040] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:44:21.041] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:44:21.743] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:44:21.743] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:44:32.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:44:32.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:44:32.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:44:32.539] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:44:50.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:51671] logged in with entity id 145133 at (-22881.616007404, 85.84829721155795, -4018.7714361959656)
+[26Jul2025 18:44:50.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:44:50.587] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:44:50.588] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:44:51.275] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:44:51.275] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:45:09.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:45:09.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:45:09.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:45:09.286] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:45:20.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:57551] logged in with entity id 145546 at (-22888.648510630494, 86.43739403030453, -4015.0918098707157)
+[26Jul2025 18:45:20.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:45:20.251] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:45:20.251] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:45:20.936] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:45:20.936] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:45:30.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:45:30.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:45:30.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:45:30.990] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:45:47.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:45761] logged in with entity id 145966 at (-22887.478418898925, 85.8784557706726, -4015.179037014375)
+[26Jul2025 18:45:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:45:47.340] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:45:47.341] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:45:48.054] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:45:48.054] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:45:58.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:45:58.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:45:58.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:45:58.091] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:46:04.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:49799] logged in with entity id 146387 at (-22883.448679341323, 88.50294176814411, -4014.9444720146616)
+[26Jul2025 18:46:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:46:04.351] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:46:04.352] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:46:05.038] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:46:05.038] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:46:30.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:46:30.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:46:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:46:30.884] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:46:37.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:46651] logged in with entity id 146912 at (-22886.733924627148, 86.86497572874362, -4011.458027503536)
+[26Jul2025 18:46:37.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:46:37.505] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:46:37.506] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:46:38.240] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:46:38.241] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:46:47.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:46:48.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:46:48.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:46:48.046] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:46:53.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:53353] logged in with entity id 147327 at (-22886.733924627148, 86.84829721156686, -4011.458027503536)
+[26Jul2025 18:46:53.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:46:53.910] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:46:53.910] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:46:54.657] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:46:54.657] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:47:04.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:47:04.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:47:04.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:47:04.790] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:47:11.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:33241] logged in with entity id 147738 at (-22886.733924627148, 86.87863776925245, -4011.458027503536)
+[26Jul2025 18:47:11.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:47:11.504] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:47:11.505] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:47:12.270] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:47:12.270] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:47:22.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:47:22.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:47:22.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:47:22.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:47:32.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:54275] logged in with entity id 148153 at (-22886.210941965208, 86.87863776925245, -4011.9699958168803)
+[26Jul2025 18:47:32.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:47:32.556] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:47:32.556] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:47:33.247] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:47:33.248] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:47:42.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:47:42.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:47:42.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:47:42.942] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:47:50.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:56259] logged in with entity id 148571 at (-22886.210941965208, 86.90291021540196, -4011.9699958168803)
+[26Jul2025 18:47:50.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:47:50.699] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:47:50.700] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:47:51.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:47:51.382] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:48:00.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:48:00.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:48:00.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:48:00.992] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:48:07.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:40213] logged in with entity id 148990 at (-22886.210941965208, 86.90291021541232, -4011.9699958168803)
+[26Jul2025 18:48:07.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:48:07.865] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:48:07.866] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:48:08.556] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:48:08.556] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:51:04.601] [Worker-Main-103/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 18:51:04.602] [Worker-Main-103/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 18:51:25.831] [Worker-Main-80/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 18:51:25.832] [Worker-Main-80/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[26Jul2025 18:53:01.010] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:53:01.011] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:57:14.768] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:57:18.437] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:57:18.440] [Server thread/ERROR] [net.minecraft.Util/]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1514) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157575_(PersistentEntitySectionManager.java:136) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157543_(PersistentEntitySectionManager.java:179) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:160) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287043_(ChunkHolder.java:334) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:57:18.443] [Server thread/ERROR] [net.minecraft.Util/]: onTrackingStart called during navigation iteration
+java.lang.IllegalStateException: onTrackingStart called during navigation iteration
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1514) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel$EntityCallbacks.m_141985_(ServerLevel.java:1488) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157575_(PersistentEntitySectionManager.java:136) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157543_(PersistentEntitySectionManager.java:179) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
+	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
+	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
+	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157527_(PersistentEntitySectionManager.java:160) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_287207_(PersistentEntitySectionManager.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_287285_(ChunkMap.java:1307) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkHolder.m_287043_(ChunkHolder.java:334) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:57:18.485] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:57:18.492] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:57:18.509] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:57:18.514] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:57:18.522] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:58:01.484] [Server thread/ERROR] [net.minecraft.Util/]: recursive call to sendBlockUpdated
+java.lang.IllegalStateException: recursive call to sendBlockUpdated
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:945) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6364_(FlowingFluid.java:253) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76014_(FlowingFluid.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_76010_(FlowingFluid.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FlowingFluid.m_6292_(FlowingFluid.java:418) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.material.FluidState.m_76163_(FluidState.java:76) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.chunk.LevelChunk.m_62812_(LevelChunk.java:501) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214959_(ChunkMap.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.m_214929_(ChunkMap.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_6367_(ServerChunkCache.java:541) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.m_7245_(ServerChunkCache.java:549) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerChunkCache.m_7587_(ServerChunkCache.java:131) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6522_(Level.java:187) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.LevelReader.m_46819_(LevelReader.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6325_(Level.java:182) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_8055_(Level.java:355) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.GroundPathNavigation.m_7864_(GroundPathNavigation.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.navigation.PathNavigation.m_26569_(PathNavigation.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_7260_(ServerLevel.java:965) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.markAndNotifyBlock(Level.java:247) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_6933_(Level.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_7731_(Level.java:196) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.block.DoorBlock.m_153165_(DoorBlock.java:214) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.InteractWithDoor.m_257204_(InteractWithDoor.java:87) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.declarative.BehaviorBuilder$1.m_257808_(BehaviorBuilder.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.behavior.OneShot.m_22554_(OneShot.java:20) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21957_(Brain.java:432) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.ai.Brain.m_21865_(Brain.java:389) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8024_(Villager.java:209) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:768) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.AgeableMob.m_8107_(AgeableMob.java:128) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8107_(VillagerEntityMCA.java:705) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.entity.npc.Villager.m_8119_(Villager.java:248) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_8119_(VillagerEntityMCA.java:777) ~[minecraft-comes-alive-7.6.10+1.20.1-universal.jar%23223!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23253!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[26Jul2025 18:58:01.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[26Jul2025 18:58:01.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:58:01.504] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:58:01.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 44523ms or 890 ticks behind
+[26Jul2025 18:58:04.484] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:47663] logged in with entity id 166936 at (-23132.68166744793, 79.49520087700593, -3789.300000011921)
+[26Jul2025 18:58:04.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:58:04.500] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:58:04.501] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:58:05.270] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:58:05.270] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 19:02:42.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Disconnected
+[26Jul2025 19:02:42.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 19:02:42.639] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 19:04:25.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:43111] logged in with entity id 180528 at (-23072.72467970727, 82.0, -3706.3234280555957)
+[26Jul2025 19:04:25.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 19:04:25.393] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 19:04:25.394] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 19:04:26.900] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 19:04:26.900] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
