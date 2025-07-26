@@ -1488,3 +1488,105 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2025 17:59:05.811] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [26Jul2025 18:01:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Big Boy]
 [26Jul2025 18:04:52.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:11:14.650] [Worker-Main-55/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 18:11:14.653] [Worker-Main-55/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[26Jul2025 18:12:05.191] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[26Jul2025 18:12:05.191] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[26Jul2025 18:12:05.192] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[26Jul2025 18:12:09.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:12:09.123] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:13:47.919] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:17:23.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Guns and Roses]
+[26Jul2025 18:22:33.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Dark Creator]
+[26Jul2025 18:22:55.013] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[26Jul2025 18:23:09.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:23:09.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:23:09.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:23:09.246] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:23:09.295] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Jul2025 18:23:18.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:46151] logged in with entity id 105493 at (-22895.20335129195, 85.84829721279813, -4004.8105214521947)
+[26Jul2025 18:23:18.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:23:18.130] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:23:18.133] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:23:18.929] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:23:18.930] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:23:29.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:23:29.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:23:29.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:23:29.440] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:24:01.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:44525] logged in with entity id 105883 at (-22895.20335129195, 85.87863776925245, -4004.8105214521947)
+[26Jul2025 18:24:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:24:01.503] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:24:01.505] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:24:02.284] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:24:02.284] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:24:13.088] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:24:13.146] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:24:13.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:24:13.147] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:24:22.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:59461] logged in with entity id 106291 at (-22895.20335129195, 85.87863776925245, -4004.8105214521947)
+[26Jul2025 18:24:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:24:22.060] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:24:22.062] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:24:22.768] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:24:22.768] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:24:32.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:24:32.242] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:24:32.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:24:32.242] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:24:43.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:52503] logged in with entity id 106696 at (-22891.90327993212, 86.58803480113272, -4011.4741622515435)
+[26Jul2025 18:24:43.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:24:43.110] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:24:43.111] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:24:43.849] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:24:43.850] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:24:53.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:24:53.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:24:53.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:24:53.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:25:00.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:35027] logged in with entity id 107099 at (-22892.298778183165, 86.86399616916482, -4011.72245006563)
+[26Jul2025 18:25:00.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:25:00.358] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:25:00.359] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:25:01.088] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:25:01.088] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:25:10.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:25:11.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:25:11.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:25:11.041] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:25:18.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:37741] logged in with entity id 107510 at (-22894.62688622928, 85.87884651088956, -4009.6205549470624)
+[26Jul2025 18:25:18.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:25:18.219] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:25:18.221] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:25:19.006] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:25:19.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:25:28.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:25:28.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:25:28.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:25:28.391] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:25:35.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:55663] logged in with entity id 107921 at (-22894.62688622928, 85.87863776925259, -4009.6205549470624)
+[26Jul2025 18:25:35.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:25:35.212] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:25:35.214] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:25:35.992] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:25:35.993] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:25:46.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:25:46.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:25:46.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:25:46.993] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:25:54.842] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:44053] logged in with entity id 108352 at (-22892.74140372181, 85.81481807862593, -4006.488805770826)
+[26Jul2025 18:25:54.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:25:54.863] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:25:54.864] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:25:55.656] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:25:55.657] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 18:26:06.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE was kicked for floating too long!
+[26Jul2025 18:26:06.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RODSQUARE lost connection: Flying is not enabled on this server
+[26Jul2025 18:26:06.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE left the game
+[26Jul2025 18:26:06.748] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RODSQUARE
+[26Jul2025 18:26:14.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RODSQUARE[/127.244.12.29:34897] logged in with entity id 108789 at (-22891.51079369575, 86.61559503211465, -4003.6880412280366)
+[26Jul2025 18:26:14.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE joined the game
+[26Jul2025 18:26:14.208] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[26Jul2025 18:26:14.209] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
+[26Jul2025 18:26:14.973] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
+[26Jul2025 18:26:14.974] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
