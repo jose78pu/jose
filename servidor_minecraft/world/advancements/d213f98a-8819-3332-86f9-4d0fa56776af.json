@@ -7544,77 +7544,143 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "securitycraft:recipes/decorations/secret_cherry_sign_item": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-07-26 00:05:45 +0000"
+      "has_sign": "2025-07-26 00:17:00 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:very_hot": {
+    "criteria": {
+      "very_hot": "2025-07-26 00:11:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-26 00:17:00 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

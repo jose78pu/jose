@@ -19,3 +19,5 @@
 [26Jul2025 00:05:55.696] [Server thread/INFO] [Jade/]: Syncing config to RODSQUARE (d213f98a-8819-3332-86f9-4d0fa56776af)
 [26Jul2025 00:05:56.048] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RODSQUARE (18)
 [26Jul2025 00:05:56.049] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RODSQUARE
+[26Jul2025 00:11:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has completed the challenge [Is it Hot in here?]
+[26Jul2025 00:16:52.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind
