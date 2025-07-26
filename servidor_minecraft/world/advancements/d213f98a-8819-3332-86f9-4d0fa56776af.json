@@ -1217,6 +1217,7 @@
       "minecraft:creeper": "2025-07-21 19:49:22 +0000",
       "minecraft:evoker": "2025-07-22 16:32:55 +0000",
       "minecraft:slime": "2025-07-23 02:16:29 +0000",
+      "minecraft:phantom": "2025-07-26 17:46:34 +0000",
       "minecraft:zombified_piglin": "2025-07-22 19:28:21 +0000",
       "minecraft:witch": "2025-07-22 01:34:02 +0000",
       "minecraft:wither_skeleton": "2025-07-21 19:47:06 +0000",
@@ -7688,6 +7689,12 @@
     },
     "done": true
   },
+  "stellarity:adventure/kill_large_phantom": {
+    "criteria": {
+      "size_doesnt_matter": "2025-07-26 17:46:34 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/magenta_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-07-26 17:40:14 +0000"
@@ -7835,6 +7842,12 @@
   "mca:recipes/decorations/pink_jungle_crib": {
     "criteria": {
       "has_jungle_planks": "2025-07-26 17:40:14 +0000"
+    },
+    "done": true
+  },
+  "stellarity:adventure/night_sky_stalkers": {
+    "criteria": {
+      "sleep_deprivation": "2025-07-26 17:46:34 +0000"
     },
     "done": true
   },

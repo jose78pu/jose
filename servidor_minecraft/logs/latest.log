@@ -1477,3 +1477,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Jul2025 17:37:14.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Simone'/24928, l='ServerLevel[world]', x=-21680.96, y=61.33, z=-2060.16] died, message: 'Simone drowned'
 [26Jul2025 17:37:14.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Simone'/24928, l='ServerLevel[world]', x=-21680.96, y=61.33, z=-2060.16] died: Simone drowned
 [26Jul2025 17:38:54.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Crafting In A Higher Level]
+[26Jul2025 17:46:34.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has reached the goal [Worsening Nightmares]
+[26Jul2025 17:46:34.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RODSQUARE has made the advancement [Night Sky Stalkers]
+[26Jul2025 17:52:58.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
